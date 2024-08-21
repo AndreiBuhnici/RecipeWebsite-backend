@@ -1,3 +1,0 @@
-1. vezi ce faci cu ingredient, tag si post, cum se leaga si cum faci pentru count de ingredient;
-2. error control, pe not found, already exists, etc. in users(get) si noile clase tag, ingredient poate si post;
-3. pagination ingredient si tag
